@@ -1,0 +1,1156 @@
+"rok","pohlavi","vek_kod","vek_nazev","okres_lau_kod","okres_nazev","kraj_nuts_kod","kraj_nazev","pocet_vysetrenych","pocet_abnormalnich"
+"2010","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",156195.0,5700.0
+"2010","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",12960.0,560.0
+"2010","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",11909.0,524.0
+"2010","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",22581.0,974.0
+"2010","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",12885.0,532.0
+"2010","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10114.0,308.0
+"2010","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",13990.0,496.0
+"2010","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19273.0,986.0
+"2010","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12822.0,500.0
+"2010","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",22354.0,835.0
+"2010","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",18737.0,756.0
+"2010","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",15981.0,899.0
+"2010","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7948.0,299.0
+"2010","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28403.0,1270.0
+"2010","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8829.0,254.0
+"2010","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13663.0,212.0
+"2010","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9474.0,263.0
+"2010","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6534.0,282.0
+"2010","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9268.0,430.0
+"2010","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",16329.0,962.0
+"2010","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8478.0,341.0
+"2010","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10929.0,431.0
+"2010","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",24238.0,1126.0
+"2010","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8018.0,307.0
+"2010","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",10773.0,436.0
+"2010","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6093.0,204.0
+"2010","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7451.0,334.0
+"2010","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11209.0,638.0
+"2010","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14112.0,378.0
+"2010","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11968.0,492.0
+"2010","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15085.0,578.0
+"2010","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16229.0,625.0
+"2010","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16214.0,513.0
+"2010","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10253.0,268.0
+"2010","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14680.0,822.0
+"2010","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",14056.0,709.0
+"2010","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",14875.0,360.0
+"2010","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",13205.0,717.0
+"2010","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",12636.0,644.0
+"2010","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",21411.0,891.0
+"2010","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10211.0,750.0
+"2010","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22793.0,840.0
+"2010","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11098.0,466.0
+"2010","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",16032.0,499.0
+"2010","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",11082.0,349.0
+"2010","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",15417.0,692.0
+"2010","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15468.0,477.0
+"2010","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24124.0,807.0
+"2010","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13570.0,627.0
+"2010","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19303.0,711.0
+"2010","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12528.0,338.0
+"2010","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15072.0,669.0
+"2010","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9801.0,175.0
+"2010","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15098.0,571.0
+"2010","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15803.0,531.0
+"2010","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13373.0,701.0
+"2010","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",50327.0,4136.0
+"2010","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29157.0,2288.0
+"2010","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15806.0,776.0
+"2010","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",16536.0,724.0
+"2010","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11369.0,677.0
+"2010","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14694.0,669.0
+"2010","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3854.0,228.0
+"2010","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",33527.0,2078.0
+"2010","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15158.0,694.0
+"2010","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16099.0,718.0
+"2010","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16551.0,751.0
+"2010","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13930.0,354.0
+"2010","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18607.0,361.0
+"2010","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",17610.0,921.0
+"2010","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24606.0,1012.0
+"2010","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",12545.0,899.0
+"2010","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",25621.0,1581.0
+"2010","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",17973.0,1183.0
+"2010","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",18102.0,1087.0
+"2010","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",22545.0,2080.0
+"2010","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",35459.0,3107.0
+"2011","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",158178.0,6566.0
+"2011","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13143.0,762.0
+"2011","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12041.0,677.0
+"2011","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21122.0,1071.0
+"2011","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13018.0,704.0
+"2011","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10050.0,338.0
+"2011","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14011.0,531.0
+"2011","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19586.0,887.0
+"2011","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12986.0,504.0
+"2011","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",22851.0,998.0
+"2011","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",19021.0,863.0
+"2011","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16158.0,1188.0
+"2011","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7829.0,371.0
+"2011","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28025.0,1485.0
+"2011","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8793.0,315.0
+"2011","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13522.0,285.0
+"2011","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9478.0,316.0
+"2011","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6713.0,387.0
+"2011","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9233.0,435.0
+"2011","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",15611.0,1042.0
+"2011","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8783.0,348.0
+"2011","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11213.0,502.0
+"2011","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26229.0,1291.0
+"2011","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8574.0,371.0
+"2011","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11268.0,531.0
+"2011","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6350.0,295.0
+"2011","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7649.0,347.0
+"2011","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11184.0,654.0
+"2011","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",13923.0,538.0
+"2011","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11888.0,727.0
+"2011","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",14548.0,654.0
+"2011","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16408.0,786.0
+"2011","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16277.0,540.0
+"2011","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10583.0,311.0
+"2011","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14152.0,792.0
+"2011","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",14305.0,767.0
+"2011","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15180.0,331.0
+"2011","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",13163.0,615.0
+"2011","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",12373.0,567.0
+"2011","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22356.0,861.0
+"2011","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10127.0,504.0
+"2011","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22373.0,842.0
+"2011","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10887.0,531.0
+"2011","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15838.0,623.0
+"2011","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10947.0,424.0
+"2011","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",15128.0,741.0
+"2011","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15436.0,556.0
+"2011","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24528.0,1152.0
+"2011","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13851.0,589.0
+"2011","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19179.0,784.0
+"2011","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",13219.0,463.0
+"2011","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15277.0,676.0
+"2011","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9647.0,218.0
+"2011","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15694.0,625.0
+"2011","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",14522.0,553.0
+"2011","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13399.0,679.0
+"2011","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",50140.0,3429.0
+"2011","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29207.0,1800.0
+"2011","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",16181.0,769.0
+"2011","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",16265.0,615.0
+"2011","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11756.0,761.0
+"2011","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14494.0,656.0
+"2011","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3762.0,156.0
+"2011","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",33578.0,1884.0
+"2011","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15232.0,794.0
+"2011","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16007.0,665.0
+"2011","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16659.0,606.0
+"2011","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13628.0,408.0
+"2011","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18925.0,352.0
+"2011","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",17152.0,822.0
+"2011","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24926.0,784.0
+"2011","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",12447.0,702.0
+"2011","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",25879.0,1640.0
+"2011","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",19766.0,1701.0
+"2011","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",18051.0,1197.0
+"2011","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",22527.0,1654.0
+"2011","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",35761.0,3030.0
+"2012","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",161413.0,6330.0
+"2012","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13188.0,849.0
+"2012","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12133.0,554.0
+"2012","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21354.0,820.0
+"2012","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",12893.0,522.0
+"2012","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9558.0,301.0
+"2012","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14057.0,511.0
+"2012","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19342.0,871.0
+"2012","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12796.0,424.0
+"2012","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",23447.0,976.0
+"2012","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",19278.0,731.0
+"2012","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",15789.0,1129.0
+"2012","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7807.0,404.0
+"2012","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28248.0,1560.0
+"2012","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8840.0,345.0
+"2012","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13418.0,321.0
+"2012","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9157.0,249.0
+"2012","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6521.0,268.0
+"2012","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9028.0,351.0
+"2012","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",15410.0,908.0
+"2012","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8683.0,316.0
+"2012","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10985.0,414.0
+"2012","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26465.0,1075.0
+"2012","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8692.0,302.0
+"2012","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11288.0,459.0
+"2012","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6353.0,228.0
+"2012","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7345.0,332.0
+"2012","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11113.0,597.0
+"2012","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",13518.0,926.0
+"2012","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11554.0,770.0
+"2012","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15453.0,808.0
+"2012","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16669.0,912.0
+"2012","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16402.0,473.0
+"2012","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10440.0,323.0
+"2012","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14068.0,894.0
+"2012","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",14758.0,736.0
+"2012","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15067.0,332.0
+"2012","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",13128.0,751.0
+"2012","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",12248.0,547.0
+"2012","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22937.0,853.0
+"2012","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10006.0,409.0
+"2012","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21736.0,677.0
+"2012","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10664.0,432.0
+"2012","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15687.0,497.0
+"2012","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10787.0,341.0
+"2012","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14818.0,582.0
+"2012","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15448.0,579.0
+"2012","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24648.0,967.0
+"2012","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13878.0,609.0
+"2012","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19132.0,821.0
+"2012","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12504.0,305.0
+"2012","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15045.0,584.0
+"2012","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9759.0,221.0
+"2012","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15442.0,594.0
+"2012","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15313.0,534.0
+"2012","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13559.0,581.0
+"2012","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",50963.0,3279.0
+"2012","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29708.0,1782.0
+"2012","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",16161.0,661.0
+"2012","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",16993.0,636.0
+"2012","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11842.0,600.0
+"2012","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14607.0,629.0
+"2012","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3920.0,129.0
+"2012","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34150.0,1579.0
+"2012","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",14943.0,598.0
+"2012","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16509.0,626.0
+"2012","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16413.0,583.0
+"2012","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13746.0,302.0
+"2012","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",19141.0,361.0
+"2012","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",17906.0,836.0
+"2012","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25452.0,787.0
+"2012","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",12472.0,592.0
+"2012","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",25722.0,1249.0
+"2012","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",24255.0,1937.0
+"2012","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",18719.0,1271.0
+"2012","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",23121.0,1405.0
+"2012","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",38014.0,3199.0
+"2013","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",162126.0,6087.0
+"2013","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13118.0,842.0
+"2013","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12396.0,495.0
+"2013","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21561.0,800.0
+"2013","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13183.0,493.0
+"2013","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9833.0,325.0
+"2013","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",13981.0,551.0
+"2013","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19137.0,842.0
+"2013","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12978.0,439.0
+"2013","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",23515.0,954.0
+"2013","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",19487.0,751.0
+"2013","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16216.0,1007.0
+"2013","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7973.0,379.0
+"2013","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28800.0,1626.0
+"2013","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8998.0,344.0
+"2013","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13247.0,338.0
+"2013","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9549.0,264.0
+"2013","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6660.0,294.0
+"2013","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9260.0,364.0
+"2013","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",15428.0,897.0
+"2013","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8695.0,318.0
+"2013","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11221.0,446.0
+"2013","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",27088.0,1147.0
+"2013","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8753.0,294.0
+"2013","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11418.0,454.0
+"2013","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6370.0,236.0
+"2013","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7697.0,318.0
+"2013","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11127.0,566.0
+"2013","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",13831.0,1180.0
+"2013","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11617.0,776.0
+"2013","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15272.0,885.0
+"2013","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",17065.0,1057.0
+"2013","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16104.0,407.0
+"2013","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10513.0,382.0
+"2013","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14731.0,819.0
+"2013","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",15151.0,725.0
+"2013","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15262.0,358.0
+"2013","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12995.0,642.0
+"2013","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",12383.0,524.0
+"2013","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22649.0,733.0
+"2013","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10068.0,382.0
+"2013","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22164.0,556.0
+"2013","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11182.0,440.0
+"2013","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15571.0,377.0
+"2013","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",11111.0,237.0
+"2013","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",15111.0,519.0
+"2013","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15613.0,463.0
+"2013","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24777.0,759.0
+"2013","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14303.0,467.0
+"2013","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19351.0,649.0
+"2013","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12802.0,286.0
+"2013","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15697.0,606.0
+"2013","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9883.0,213.0
+"2013","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",16149.0,594.0
+"2013","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15418.0,487.0
+"2013","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13936.0,625.0
+"2013","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",51166.0,3103.0
+"2013","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29949.0,1667.0
+"2013","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",16118.0,607.0
+"2013","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",18532.0,734.0
+"2013","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12341.0,574.0
+"2013","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14452.0,570.0
+"2013","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3836.0,173.0
+"2013","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",33012.0,1708.0
+"2013","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15327.0,572.0
+"2013","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",17013.0,794.0
+"2013","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16077.0,618.0
+"2013","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",14060.0,292.0
+"2013","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",19253.0,399.0
+"2013","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",19661.0,871.0
+"2013","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25573.0,715.0
+"2013","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",12137.0,619.0
+"2013","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",27457.0,1497.0
+"2013","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",30944.0,2368.0
+"2013","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20572.0,1356.0
+"2013","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",24940.0,1750.0
+"2013","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",41181.0,2921.0
+"2014","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",162385.0,6184.0
+"2014","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",12951.0,645.0
+"2014","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12092.0,440.0
+"2014","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21083.0,730.0
+"2014","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",12990.0,563.0
+"2014","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9867.0,413.0
+"2014","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14222.0,567.0
+"2014","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19245.0,803.0
+"2014","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12926.0,454.0
+"2014","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",23778.0,852.0
+"2014","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",19486.0,729.0
+"2014","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16029.0,822.0
+"2014","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7762.0,407.0
+"2014","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28534.0,1352.0
+"2014","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8482.0,262.0
+"2014","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13150.0,330.0
+"2014","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9222.0,252.0
+"2014","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6549.0,250.0
+"2014","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9058.0,322.0
+"2014","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14436.0,760.0
+"2014","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8540.0,260.0
+"2014","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11005.0,369.0
+"2014","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26452.0,987.0
+"2014","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8568.0,284.0
+"2014","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11107.0,390.0
+"2014","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6317.0,238.0
+"2014","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7306.0,286.0
+"2014","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11066.0,499.0
+"2014","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",13721.0,1177.0
+"2014","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11342.0,793.0
+"2014","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15138.0,758.0
+"2014","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16397.0,798.0
+"2014","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16580.0,406.0
+"2014","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10577.0,343.0
+"2014","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13949.0,668.0
+"2014","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",14943.0,671.0
+"2014","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15056.0,311.0
+"2014","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12854.0,550.0
+"2014","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11909.0,510.0
+"2014","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22597.0,723.0
+"2014","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10052.0,383.0
+"2014","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21842.0,755.0
+"2014","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10916.0,468.0
+"2014","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15476.0,561.0
+"2014","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10683.0,396.0
+"2014","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14644.0,680.0
+"2014","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15207.0,595.0
+"2014","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23947.0,1037.0
+"2014","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14081.0,826.0
+"2014","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19100.0,981.0
+"2014","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12568.0,307.0
+"2014","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15610.0,622.0
+"2014","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9592.0,208.0
+"2014","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15512.0,553.0
+"2014","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",14813.0,364.0
+"2014","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13766.0,549.0
+"2014","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",51202.0,2830.0
+"2014","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29741.0,1529.0
+"2014","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15690.0,562.0
+"2014","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",18634.0,646.0
+"2014","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11814.0,496.0
+"2014","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14527.0,513.0
+"2014","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3922.0,162.0
+"2014","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",33313.0,1712.0
+"2014","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15191.0,526.0
+"2014","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16939.0,753.0
+"2014","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16046.0,543.0
+"2014","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",14079.0,266.0
+"2014","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18406.0,339.0
+"2014","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20018.0,809.0
+"2014","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25074.0,729.0
+"2014","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",12127.0,556.0
+"2014","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",27282.0,1701.0
+"2014","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31101.0,2329.0
+"2014","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20735.0,1203.0
+"2014","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",24730.0,1558.0
+"2014","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",41432.0,2991.0
+"2015","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",168052.0,6639.0
+"2015","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13139.0,592.0
+"2015","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12199.0,493.0
+"2015","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21910.0,803.0
+"2015","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13360.0,554.0
+"2015","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10196.0,368.0
+"2015","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14157.0,613.0
+"2015","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19638.0,906.0
+"2015","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12744.0,372.0
+"2015","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",24748.0,963.0
+"2015","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",20285.0,854.0
+"2015","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",15843.0,896.0
+"2015","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7886.0,375.0
+"2015","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29242.0,1423.0
+"2015","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8912.0,359.0
+"2015","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12821.0,396.0
+"2015","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9450.0,249.0
+"2015","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6377.0,251.0
+"2015","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9186.0,369.0
+"2015","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14815.0,732.0
+"2015","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8642.0,285.0
+"2015","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11078.0,408.0
+"2015","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26670.0,1100.0
+"2015","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8511.0,315.0
+"2015","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11220.0,415.0
+"2015","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6295.0,256.0
+"2015","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7271.0,317.0
+"2015","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11014.0,508.0
+"2015","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14911.0,874.0
+"2015","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",12097.0,747.0
+"2015","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15286.0,776.0
+"2015","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16593.0,773.0
+"2015","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16348.0,408.0
+"2015","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10894.0,416.0
+"2015","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14065.0,707.0
+"2015","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",15297.0,624.0
+"2015","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",14954.0,341.0
+"2015","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12806.0,491.0
+"2015","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11888.0,483.0
+"2015","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22474.0,660.0
+"2015","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10091.0,372.0
+"2015","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21344.0,663.0
+"2015","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10903.0,432.0
+"2015","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15374.0,374.0
+"2015","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10682.0,224.0
+"2015","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14540.0,486.0
+"2015","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15322.0,484.0
+"2015","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23963.0,638.0
+"2015","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14390.0,546.0
+"2015","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19001.0,648.0
+"2015","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12575.0,287.0
+"2015","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15672.0,648.0
+"2015","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9786.0,252.0
+"2015","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15699.0,514.0
+"2015","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15322.0,483.0
+"2015","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13846.0,543.0
+"2015","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",50579.0,2476.0
+"2015","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",29834.0,1370.0
+"2015","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15636.0,452.0
+"2015","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",18759.0,601.0
+"2015","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11492.0,546.0
+"2015","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14422.0,453.0
+"2015","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3876.0,192.0
+"2015","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34219.0,2183.0
+"2015","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15251.0,647.0
+"2015","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",17152.0,772.0
+"2015","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16031.0,622.0
+"2015","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13927.0,252.0
+"2015","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18978.0,362.0
+"2015","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20231.0,668.0
+"2015","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24921.0,709.0
+"2015","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11880.0,520.0
+"2015","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",28006.0,1341.0
+"2015","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31907.0,1889.0
+"2015","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20978.0,1138.0
+"2015","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25513.0,1407.0
+"2015","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",42264.0,2834.0
+"2016","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",169932.0,6560.0
+"2016","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13216.0,484.0
+"2016","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12578.0,482.0
+"2016","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21910.0,723.0
+"2016","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13498.0,575.0
+"2016","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9288.0,236.0
+"2016","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14552.0,660.0
+"2016","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19453.0,805.0
+"2016","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12912.0,394.0
+"2016","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",25112.0,970.0
+"2016","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",20277.0,817.0
+"2016","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16083.0,885.0
+"2016","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7668.0,288.0
+"2016","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29373.0,1174.0
+"2016","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8817.0,319.0
+"2016","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",13037.0,369.0
+"2016","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9241.0,193.0
+"2016","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6518.0,217.0
+"2016","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9095.0,297.0
+"2016","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14857.0,649.0
+"2016","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8596.0,246.0
+"2016","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10873.0,342.0
+"2016","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26671.0,880.0
+"2016","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8508.0,224.0
+"2016","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11174.0,351.0
+"2016","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6445.0,234.0
+"2016","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7081.0,252.0
+"2016","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11075.0,426.0
+"2016","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",15033.0,496.0
+"2016","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11856.0,569.0
+"2016","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15428.0,709.0
+"2016","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16607.0,555.0
+"2016","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16725.0,415.0
+"2016","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10905.0,311.0
+"2016","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13958.0,571.0
+"2016","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",15599.0,524.0
+"2016","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15753.0,448.0
+"2016","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12962.0,575.0
+"2016","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11892.0,432.0
+"2016","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22218.0,635.0
+"2016","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10056.0,396.0
+"2016","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",20515.0,628.0
+"2016","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10563.0,446.0
+"2016","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15073.0,376.0
+"2016","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10488.0,251.0
+"2016","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14434.0,479.0
+"2016","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15128.0,409.0
+"2016","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23528.0,637.0
+"2016","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13849.0,451.0
+"2016","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19131.0,500.0
+"2016","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12779.0,291.0
+"2016","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15645.0,426.0
+"2016","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9800.0,200.0
+"2016","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15678.0,477.0
+"2016","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",14893.0,431.0
+"2016","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13734.0,446.0
+"2016","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",52033.0,2033.0
+"2016","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",30535.0,1187.0
+"2016","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15547.0,410.0
+"2016","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19261.0,547.0
+"2016","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12325.0,434.0
+"2016","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14667.0,355.0
+"2016","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3646.0,129.0
+"2016","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34294.0,1796.0
+"2016","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15471.0,484.0
+"2016","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16953.0,575.0
+"2016","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16409.0,529.0
+"2016","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13840.0,214.0
+"2016","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",19007.0,338.0
+"2016","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20405.0,738.0
+"2016","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24590.0,623.0
+"2016","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11870.0,453.0
+"2016","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",28428.0,1377.0
+"2016","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31513.0,1608.0
+"2016","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20916.0,1024.0
+"2016","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25817.0,1148.0
+"2016","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",42541.0,2576.0
+"2017","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",169951.0,5751.0
+"2017","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13299.0,378.0
+"2017","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12448.0,378.0
+"2017","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21997.0,624.0
+"2017","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13484.0,376.0
+"2017","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9566.0,176.0
+"2017","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14520.0,588.0
+"2017","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19830.0,751.0
+"2017","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",12802.0,330.0
+"2017","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",25218.0,813.0
+"2017","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",20362.0,729.0
+"2017","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16056.0,627.0
+"2017","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7930.0,234.0
+"2017","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29001.0,835.0
+"2017","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8922.0,211.0
+"2017","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12652.0,269.0
+"2017","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9355.0,217.0
+"2017","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6225.0,154.0
+"2017","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",8981.0,209.0
+"2017","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14393.0,542.0
+"2017","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8606.0,200.0
+"2017","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11063.0,268.0
+"2017","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26285.0,701.0
+"2017","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8517.0,162.0
+"2017","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11118.0,260.0
+"2017","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6459.0,188.0
+"2017","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",6956.0,196.0
+"2017","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11009.0,321.0
+"2017","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",15513.0,429.0
+"2017","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",12161.0,505.0
+"2017","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15692.0,526.0
+"2017","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16784.0,443.0
+"2017","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16651.0,305.0
+"2017","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10757.0,282.0
+"2017","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14031.0,457.0
+"2017","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",16060.0,469.0
+"2017","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15780.0,317.0
+"2017","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12570.0,444.0
+"2017","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11479.0,320.0
+"2017","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22618.0,515.0
+"2017","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9989.0,286.0
+"2017","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21361.0,785.0
+"2017","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10922.0,352.0
+"2017","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15220.0,375.0
+"2017","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10503.0,243.0
+"2017","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14942.0,506.0
+"2017","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15354.0,399.0
+"2017","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23952.0,727.0
+"2017","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13947.0,346.0
+"2017","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",18586.0,500.0
+"2017","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12793.0,294.0
+"2017","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15827.0,340.0
+"2017","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9944.0,173.0
+"2017","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15390.0,349.0
+"2017","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15166.0,348.0
+"2017","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13697.0,382.0
+"2017","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",52472.0,1744.0
+"2017","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",30756.0,1002.0
+"2017","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15492.0,353.0
+"2017","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19021.0,479.0
+"2017","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12407.0,377.0
+"2017","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14718.0,316.0
+"2017","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3529.0,137.0
+"2017","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34234.0,1513.0
+"2017","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15417.0,401.0
+"2017","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16764.0,511.0
+"2017","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16041.0,606.0
+"2017","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",14132.0,230.0
+"2017","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18757.0,271.0
+"2017","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20169.0,630.0
+"2017","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24830.0,508.0
+"2017","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11801.0,407.0
+"2017","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",28754.0,1054.0
+"2017","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31134.0,1466.0
+"2017","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20062.0,836.0
+"2017","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25459.0,1005.0
+"2017","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",41668.0,2139.0
+"2018","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",172497.0,6330.0
+"2018","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13257.0,411.0
+"2018","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12481.0,393.0
+"2018","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",22280.0,632.0
+"2018","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13686.0,401.0
+"2018","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9690.0,176.0
+"2018","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14616.0,613.0
+"2018","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19322.0,862.0
+"2018","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",13477.0,377.0
+"2018","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",25603.0,929.0
+"2018","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",20731.0,798.0
+"2018","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16011.0,625.0
+"2018","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7770.0,262.0
+"2018","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29171.0,891.0
+"2018","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8960.0,253.0
+"2018","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12779.0,298.0
+"2018","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9318.0,258.0
+"2018","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6435.0,171.0
+"2018","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9062.0,254.0
+"2018","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14297.0,528.0
+"2018","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8535.0,248.0
+"2018","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11045.0,307.0
+"2018","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26378.0,780.0
+"2018","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8662.0,226.0
+"2018","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11081.0,271.0
+"2018","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6610.0,218.0
+"2018","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",6990.0,224.0
+"2018","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11327.0,358.0
+"2018","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",15348.0,529.0
+"2018","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11992.0,475.0
+"2018","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15564.0,559.0
+"2018","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16804.0,517.0
+"2018","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16963.0,309.0
+"2018","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10952.0,305.0
+"2018","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14156.0,443.0
+"2018","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",15971.0,422.0
+"2018","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15965.0,294.0
+"2018","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12658.0,420.0
+"2018","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11526.0,447.0
+"2018","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22364.0,539.0
+"2018","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10155.0,344.0
+"2018","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21257.0,856.0
+"2018","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10983.0,384.0
+"2018","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15153.0,374.0
+"2018","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10509.0,223.0
+"2018","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14745.0,470.0
+"2018","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15258.0,368.0
+"2018","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23771.0,672.0
+"2018","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13897.0,500.0
+"2018","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19260.0,614.0
+"2018","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12903.0,291.0
+"2018","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15589.0,378.0
+"2018","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9817.0,185.0
+"2018","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15460.0,381.0
+"2018","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15697.0,391.0
+"2018","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13869.0,382.0
+"2018","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",52892.0,1658.0
+"2018","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",30986.0,988.0
+"2018","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15644.0,338.0
+"2018","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19533.0,507.0
+"2018","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12471.0,386.0
+"2018","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14362.0,300.0
+"2018","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3673.0,145.0
+"2018","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34269.0,1443.0
+"2018","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15470.0,462.0
+"2018","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16969.0,723.0
+"2018","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16766.0,589.0
+"2018","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13888.0,297.0
+"2018","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18561.0,259.0
+"2018","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20091.0,582.0
+"2018","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25028.0,568.0
+"2018","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11611.0,403.0
+"2018","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",28145.0,879.0
+"2018","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",30731.0,1226.0
+"2018","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",19610.0,805.0
+"2018","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",24906.0,928.0
+"2018","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",41444.0,1980.0
+"2019","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",178140.0,6955.0
+"2019","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13418.0,404.0
+"2019","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",13082.0,368.0
+"2019","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",22744.0,673.0
+"2019","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",14322.0,455.0
+"2019","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10228.0,201.0
+"2019","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14965.0,626.0
+"2019","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19984.0,751.0
+"2019","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",13822.0,408.0
+"2019","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",26679.0,1088.0
+"2019","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",21397.0,855.0
+"2019","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",15836.0,854.0
+"2019","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",8014.0,282.0
+"2019","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29762.0,866.0
+"2019","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",9072.0,256.0
+"2019","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12613.0,259.0
+"2019","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9492.0,282.0
+"2019","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6442.0,188.0
+"2019","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9033.0,264.0
+"2019","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14475.0,490.0
+"2019","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8790.0,224.0
+"2019","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10977.0,375.0
+"2019","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26833.0,761.0
+"2019","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8721.0,235.0
+"2019","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11526.0,311.0
+"2019","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6650.0,212.0
+"2019","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7153.0,231.0
+"2019","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11135.0,374.0
+"2019","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",15430.0,575.0
+"2019","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",12080.0,548.0
+"2019","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15888.0,540.0
+"2019","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16906.0,528.0
+"2019","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16840.0,310.0
+"2019","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10945.0,311.0
+"2019","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",14040.0,478.0
+"2019","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",16562.0,528.0
+"2019","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",16068.0,322.0
+"2019","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12338.0,404.0
+"2019","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11458.0,411.0
+"2019","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",22534.0,565.0
+"2019","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",10113.0,316.0
+"2019","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22309.0,965.0
+"2019","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11217.0,438.0
+"2019","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15395.0,396.0
+"2019","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10952.0,284.0
+"2019","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14981.0,539.0
+"2019","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15619.0,412.0
+"2019","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24828.0,727.0
+"2019","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14172.0,480.0
+"2019","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",19305.0,575.0
+"2019","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",13316.0,306.0
+"2019","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15726.0,396.0
+"2019","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9933.0,174.0
+"2019","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15699.0,385.0
+"2019","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15558.0,375.0
+"2019","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",14267.0,403.0
+"2019","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",53807.0,1722.0
+"2019","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",31581.0,1043.0
+"2019","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",16039.0,377.0
+"2019","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19533.0,466.0
+"2019","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12569.0,384.0
+"2019","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14871.0,351.0
+"2019","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3790.0,140.0
+"2019","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34978.0,1142.0
+"2019","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15419.0,433.0
+"2019","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",17202.0,640.0
+"2019","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",17552.0,538.0
+"2019","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",14078.0,273.0
+"2019","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18905.0,295.0
+"2019","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",20137.0,563.0
+"2019","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25498.0,615.0
+"2019","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11887.0,485.0
+"2019","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",29623.0,1050.0
+"2019","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31831.0,1344.0
+"2019","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20204.0,830.0
+"2019","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25910.0,1173.0
+"2019","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",42514.0,2020.0
+"2020","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",169475.0,7040.0
+"2020","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",12556.0,371.0
+"2020","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",12189.0,349.0
+"2020","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",21822.0,682.0
+"2020","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",13507.0,411.0
+"2020","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",9779.0,234.0
+"2020","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",13882.0,581.0
+"2020","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19306.0,745.0
+"2020","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",13426.0,405.0
+"2020","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",25791.0,1089.0
+"2020","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",20655.0,838.0
+"2020","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",15168.0,815.0
+"2020","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7599.0,276.0
+"2020","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",28267.0,911.0
+"2020","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8500.0,264.0
+"2020","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",11790.0,293.0
+"2020","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",8802.0,263.0
+"2020","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",5871.0,191.0
+"2020","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",8381.0,260.0
+"2020","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",13529.0,447.0
+"2020","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8418.0,193.0
+"2020","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10232.0,338.0
+"2020","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",24945.0,792.0
+"2020","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",8149.0,231.0
+"2020","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",10641.0,307.0
+"2020","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6299.0,186.0
+"2020","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",6662.0,203.0
+"2020","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",10792.0,336.0
+"2020","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14576.0,615.0
+"2020","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11162.0,508.0
+"2020","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15064.0,477.0
+"2020","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",15493.0,475.0
+"2020","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16146.0,365.0
+"2020","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10553.0,314.0
+"2020","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",12897.0,424.0
+"2020","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",16175.0,502.0
+"2020","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15020.0,289.0
+"2020","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",11484.0,368.0
+"2020","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",10493.0,392.0
+"2020","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",21081.0,543.0
+"2020","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9609.0,345.0
+"2020","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",21197.0,785.0
+"2020","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",10896.0,453.0
+"2020","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",14438.0,324.0
+"2020","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10370.0,243.0
+"2020","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14079.0,497.0
+"2020","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15001.0,336.0
+"2020","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",23448.0,622.0
+"2020","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13115.0,366.0
+"2020","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",17908.0,506.0
+"2020","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12561.0,250.0
+"2020","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",14843.0,433.0
+"2020","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",8856.0,182.0
+"2020","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",14479.0,392.0
+"2020","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",14582.0,391.0
+"2020","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13103.0,374.0
+"2020","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",50638.0,1866.0
+"2020","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",30204.0,1165.0
+"2020","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15152.0,442.0
+"2020","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",18428.0,514.0
+"2020","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",11972.0,430.0
+"2020","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14148.0,362.0
+"2020","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3368.0,142.0
+"2020","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",32512.0,1037.0
+"2020","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",14970.0,431.0
+"2020","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",15892.0,512.0
+"2020","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",15946.0,524.0
+"2020","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",12807.0,255.0
+"2020","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",17655.0,301.0
+"2020","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",18954.0,493.0
+"2020","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24066.0,521.0
+"2020","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",10967.0,463.0
+"2020","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",29030.0,996.0
+"2020","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",29779.0,1218.0
+"2020","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",18888.0,631.0
+"2020","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",24546.0,1030.0
+"2020","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",40723.0,1801.0
+"2021","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",176162.0,6798.0
+"2021","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13290.0,435.0
+"2021","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",13114.0,372.0
+"2021","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",22784.0,703.0
+"2021","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",14511.0,424.0
+"2021","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10020.0,256.0
+"2021","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",14851.0,547.0
+"2021","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19608.0,675.0
+"2021","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",13938.0,416.0
+"2021","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",27336.0,1037.0
+"2021","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",21852.0,862.0
+"2021","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16146.0,560.0
+"2021","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7760.0,310.0
+"2021","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",29212.0,828.0
+"2021","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8876.0,256.0
+"2021","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12751.0,299.0
+"2021","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9626.0,316.0
+"2021","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6130.0,192.0
+"2021","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9014.0,239.0
+"2021","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",13936.0,397.0
+"2021","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8058.0,194.0
+"2021","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",10876.0,356.0
+"2021","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26360.0,776.0
+"2021","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",9621.0,277.0
+"2021","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11339.0,354.0
+"2021","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6646.0,204.0
+"2021","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",6979.0,216.0
+"2021","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11119.0,331.0
+"2021","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14739.0,483.0
+"2021","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11416.0,478.0
+"2021","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",15669.0,436.0
+"2021","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16611.0,490.0
+"2021","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16429.0,373.0
+"2021","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",10962.0,406.0
+"2021","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13316.0,435.0
+"2021","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",16794.0,540.0
+"2021","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15550.0,333.0
+"2021","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12368.0,331.0
+"2021","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11146.0,370.0
+"2021","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",21122.0,567.0
+"2021","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9626.0,295.0
+"2021","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22005.0,871.0
+"2021","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11061.0,405.0
+"2021","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",15106.0,342.0
+"2021","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10510.0,245.0
+"2021","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14954.0,479.0
+"2021","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15019.0,335.0
+"2021","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24295.0,576.0
+"2021","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13897.0,403.0
+"2021","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",18820.0,452.0
+"2021","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12816.0,360.0
+"2021","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15189.0,417.0
+"2021","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",9910.0,184.0
+"2021","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",14996.0,438.0
+"2021","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15116.0,550.0
+"2021","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",13980.0,472.0
+"2021","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",53208.0,2319.0
+"2021","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",31667.0,1409.0
+"2021","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15369.0,499.0
+"2021","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19254.0,636.0
+"2021","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12751.0,482.0
+"2021","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14583.0,406.0
+"2021","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3583.0,151.0
+"2021","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",33580.0,1170.0
+"2021","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",14943.0,381.0
+"2021","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16526.0,568.0
+"2021","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16116.0,480.0
+"2021","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13735.0,237.0
+"2021","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18480.0,342.0
+"2021","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",19074.0,507.0
+"2021","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24353.0,519.0
+"2021","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11225.0,524.0
+"2021","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",30299.0,827.0
+"2021","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31313.0,1095.0
+"2021","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20294.0,615.0
+"2021","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25131.0,1146.0
+"2021","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",41787.0,1534.0
+"2022","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",179008.0,6819.0
+"2022","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13384.0,425.0
+"2022","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",13562.0,447.0
+"2022","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",23248.0,709.0
+"2022","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",14770.0,466.0
+"2022","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10048.0,376.0
+"2022","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",15228.0,540.0
+"2022","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",20027.0,732.0
+"2022","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",14226.0,379.0
+"2022","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",28377.0,1043.0
+"2022","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",22371.0,834.0
+"2022","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16034.0,518.0
+"2022","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7904.0,216.0
+"2022","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",30117.0,851.0
+"2022","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8724.0,257.0
+"2022","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12177.0,294.0
+"2022","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9834.0,345.0
+"2022","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6235.0,187.0
+"2022","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9265.0,247.0
+"2022","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14429.0,497.0
+"2022","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8132.0,205.0
+"2022","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11115.0,351.0
+"2022","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",26902.0,864.0
+"2022","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",9688.0,286.0
+"2022","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11630.0,358.0
+"2022","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6641.0,251.0
+"2022","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7196.0,234.0
+"2022","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",11218.0,401.0
+"2022","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14777.0,474.0
+"2022","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11324.0,426.0
+"2022","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",16118.0,461.0
+"2022","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16523.0,590.0
+"2022","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16775.0,565.0
+"2022","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",11068.0,438.0
+"2022","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13357.0,412.0
+"2022","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",17050.0,551.0
+"2022","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",15969.0,357.0
+"2022","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12382.0,298.0
+"2022","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11368.0,441.0
+"2022","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",23059.0,723.0
+"2022","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9586.0,362.0
+"2022","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22263.0,591.0
+"2022","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11004.0,411.0
+"2022","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",14619.0,281.0
+"2022","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10594.0,186.0
+"2022","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",14899.0,401.0
+"2022","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15133.0,357.0
+"2022","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",24742.0,503.0
+"2022","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14071.0,453.0
+"2022","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",18809.0,443.0
+"2022","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12667.0,356.0
+"2022","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15489.0,467.0
+"2022","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",10009.0,218.0
+"2022","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",14992.0,421.0
+"2022","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15566.0,884.0
+"2022","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",14202.0,498.0
+"2022","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",53431.0,2289.0
+"2022","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",32547.0,1434.0
+"2022","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15823.0,491.0
+"2022","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19137.0,667.0
+"2022","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",12820.0,516.0
+"2022","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",14976.0,401.0
+"2022","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3547.0,172.0
+"2022","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34371.0,1023.0
+"2022","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15033.0,411.0
+"2022","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16795.0,478.0
+"2022","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16860.0,379.0
+"2022","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13500.0,231.0
+"2022","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18295.0,343.0
+"2022","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",19408.0,525.0
+"2022","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",24419.0,570.0
+"2022","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11439.0,467.0
+"2022","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",30413.0,688.0
+"2022","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31427.0,972.0
+"2022","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20504.0,568.0
+"2022","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",25263.0,1137.0
+"2022","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",42446.0,1235.0
+"2023","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",183350.0,6286.0
+"2023","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13886.0,359.0
+"2023","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",13979.0,406.0
+"2023","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",23412.0,694.0
+"2023","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",14940.0,392.0
+"2023","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10166.0,355.0
+"2023","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",15488.0,546.0
+"2023","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",20241.0,673.0
+"2023","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",15253.0,415.0
+"2023","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",28622.0,962.0
+"2023","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",22890.0,811.0
+"2023","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16471.0,492.0
+"2023","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",7890.0,190.0
+"2023","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",30699.0,862.0
+"2023","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8928.0,224.0
+"2023","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12677.0,256.0
+"2023","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9988.0,319.0
+"2023","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6434.0,183.0
+"2023","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9373.0,236.0
+"2023","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14449.0,401.0
+"2023","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8244.0,179.0
+"2023","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11359.0,334.0
+"2023","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",27284.0,873.0
+"2023","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",9700.0,310.0
+"2023","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11931.0,329.0
+"2023","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6834.0,233.0
+"2023","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7157.0,245.0
+"2023","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",10987.0,296.0
+"2023","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",15203.0,380.0
+"2023","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11379.0,367.0
+"2023","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",16323.0,413.0
+"2023","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16950.0,526.0
+"2023","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16724.0,571.0
+"2023","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",11301.0,364.0
+"2023","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13565.0,432.0
+"2023","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",17295.0,556.0
+"2023","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",16175.0,434.0
+"2023","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12623.0,323.0
+"2023","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11712.0,379.0
+"2023","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",23531.0,703.0
+"2023","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9966.0,295.0
+"2023","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22530.0,368.0
+"2023","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11140.0,385.0
+"2023","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",14738.0,216.0
+"2023","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10939.0,159.0
+"2023","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",15125.0,359.0
+"2023","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15489.0,331.0
+"2023","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",25469.0,447.0
+"2023","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",14369.0,640.0
+"2023","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",18949.0,484.0
+"2023","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",13029.0,290.0
+"2023","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",15859.0,594.0
+"2023","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",10337.0,203.0
+"2023","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15211.0,365.0
+"2023","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",15614.0,759.0
+"2023","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",14611.0,478.0
+"2023","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",54752.0,2201.0
+"2023","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",33585.0,1335.0
+"2023","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",16065.0,411.0
+"2023","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19661.0,622.0
+"2023","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",13365.0,490.0
+"2023","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",15328.0,383.0
+"2023","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3686.0,107.0
+"2023","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34541.0,853.0
+"2023","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15829.0,391.0
+"2023","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16883.0,367.0
+"2023","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16772.0,390.0
+"2023","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13254.0,224.0
+"2023","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18834.0,275.0
+"2023","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",19589.0,486.0
+"2023","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25330.0,503.0
+"2023","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11627.0,385.0
+"2023","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",31599.0,692.0
+"2023","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31431.0,980.0
+"2023","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20789.0,598.0
+"2023","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",26502.0,748.0
+"2023","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",43548.0,1270.0
+"2024","Z",66025100.0,"25–59 let","CZ0100","Praha","CZ010","Hlavni mesto Praha",184167.0,6299.0
+"2024","Z",66025100.0,"25–59 let","CZ0201","Benesov","CZ020","Stredocesky kraj",13948.0,350.0
+"2024","Z",66025100.0,"25–59 let","CZ0202","Beroun","CZ020","Stredocesky kraj",13942.0,398.0
+"2024","Z",66025100.0,"25–59 let","CZ0203","Kladno","CZ020","Stredocesky kraj",23507.0,639.0
+"2024","Z",66025100.0,"25–59 let","CZ0204","Kolin","CZ020","Stredocesky kraj",15043.0,397.0
+"2024","Z",66025100.0,"25–59 let","CZ0205","Kutna Hora","CZ020","Stredocesky kraj",10515.0,342.0
+"2024","Z",66025100.0,"25–59 let","CZ0206","Melnik","CZ020","Stredocesky kraj",15703.0,510.0
+"2024","Z",66025100.0,"25–59 let","CZ0207","Mlada Boleslav","CZ020","Stredocesky kraj",19835.0,761.0
+"2024","Z",66025100.0,"25–59 let","CZ0208","Nymburk","CZ020","Stredocesky kraj",15037.0,421.0
+"2024","Z",66025100.0,"25–59 let","CZ0209","Praha-vychod","CZ020","Stredocesky kraj",29031.0,990.0
+"2024","Z",66025100.0,"25–59 let","CZ020A","Praha-zapad","CZ020","Stredocesky kraj",22952.0,800.0
+"2024","Z",66025100.0,"25–59 let","CZ020B","Pribram","CZ020","Stredocesky kraj",16350.0,462.0
+"2024","Z",66025100.0,"25–59 let","CZ020C","Rakovnik","CZ020","Stredocesky kraj",8034.0,175.0
+"2024","Z",66025100.0,"25–59 let","CZ0311","Ceske Budejovice","CZ031","Jihocesky kraj",31346.0,936.0
+"2024","Z",66025100.0,"25–59 let","CZ0312","Cesky Krumlov","CZ031","Jihocesky kraj",8798.0,197.0
+"2024","Z",66025100.0,"25–59 let","CZ0313","Jindrichuv Hradec","CZ031","Jihocesky kraj",12321.0,308.0
+"2024","Z",66025100.0,"25–59 let","CZ0314","Pisek","CZ031","Jihocesky kraj",9907.0,300.0
+"2024","Z",66025100.0,"25–59 let","CZ0315","Prachatice","CZ031","Jihocesky kraj",6415.0,200.0
+"2024","Z",66025100.0,"25–59 let","CZ0316","Strakonice","CZ031","Jihocesky kraj",9392.0,264.0
+"2024","Z",66025100.0,"25–59 let","CZ0317","Tabor","CZ031","Jihocesky kraj",14394.0,380.0
+"2024","Z",66025100.0,"25–59 let","CZ0321","Domazlice","CZ032","Plzensky kraj",8152.0,192.0
+"2024","Z",66025100.0,"25–59 let","CZ0322","Klatovy","CZ032","Plzensky kraj",11603.0,399.0
+"2024","Z",66025100.0,"25–59 let","CZ0323","Plzen-mesto","CZ032","Plzensky kraj",27236.0,983.0
+"2024","Z",66025100.0,"25–59 let","CZ0324","Plzen-jih","CZ032","Plzensky kraj",9834.0,336.0
+"2024","Z",66025100.0,"25–59 let","CZ0325","Plzen-sever","CZ032","Plzensky kraj",11789.0,395.0
+"2024","Z",66025100.0,"25–59 let","CZ0326","Rokycany","CZ032","Plzensky kraj",6843.0,214.0
+"2024","Z",66025100.0,"25–59 let","CZ0327","Tachov","CZ032","Plzensky kraj",7352.0,265.0
+"2024","Z",66025100.0,"25–59 let","CZ0411","Cheb","CZ041","Karlovarsky kraj",10944.0,341.0
+"2024","Z",66025100.0,"25–59 let","CZ0412","Karlovy Vary","CZ041","Karlovarsky kraj",14825.0,437.0
+"2024","Z",66025100.0,"25–59 let","CZ0413","Sokolov","CZ041","Karlovarsky kraj",11331.0,406.0
+"2024","Z",66025100.0,"25–59 let","CZ0421","Decin","CZ042","Ustecky kraj",16138.0,433.0
+"2024","Z",66025100.0,"25–59 let","CZ0422","Chomutov","CZ042","Ustecky kraj",16708.0,516.0
+"2024","Z",66025100.0,"25–59 let","CZ0423","Litomerice","CZ042","Ustecky kraj",16515.0,504.0
+"2024","Z",66025100.0,"25–59 let","CZ0424","Louny","CZ042","Ustecky kraj",11234.0,351.0
+"2024","Z",66025100.0,"25–59 let","CZ0425","Most","CZ042","Ustecky kraj",13150.0,432.0
+"2024","Z",66025100.0,"25–59 let","CZ0426","Teplice","CZ042","Ustecky kraj",17020.0,447.0
+"2024","Z",66025100.0,"25–59 let","CZ0427","Usti nad Labem","CZ042","Ustecky kraj",16286.0,454.0
+"2024","Z",66025100.0,"25–59 let","CZ0511","Ceska Lipa","CZ051","Liberecky kraj",12507.0,322.0
+"2024","Z",66025100.0,"25–59 let","CZ0512","Jablonec nad Nisou","CZ051","Liberecky kraj",11856.0,354.0
+"2024","Z",66025100.0,"25–59 let","CZ0513","Liberec","CZ051","Liberecky kraj",23748.0,596.0
+"2024","Z",66025100.0,"25–59 let","CZ0514","Semily","CZ051","Liberecky kraj",9936.0,307.0
+"2024","Z",66025100.0,"25–59 let","CZ0521","Hradec Kralove","CZ052","Kralovehradecky kraj",22758.0,433.0
+"2024","Z",66025100.0,"25–59 let","CZ0522","Jicin","CZ052","Kralovehradecky kraj",11172.0,393.0
+"2024","Z",66025100.0,"25–59 let","CZ0523","Nachod","CZ052","Kralovehradecky kraj",14532.0,272.0
+"2024","Z",66025100.0,"25–59 let","CZ0524","Rychnov nad Kneznou","CZ052","Kralovehradecky kraj",10912.0,247.0
+"2024","Z",66025100.0,"25–59 let","CZ0525","Trutnov","CZ052","Kralovehradecky kraj",15129.0,373.0
+"2024","Z",66025100.0,"25–59 let","CZ0531","Chrudim","CZ053","Pardubicky kraj",15057.0,420.0
+"2024","Z",66025100.0,"25–59 let","CZ0532","Pardubice","CZ053","Pardubicky kraj",25693.0,580.0
+"2024","Z",66025100.0,"25–59 let","CZ0533","Svitavy","CZ053","Pardubicky kraj",13866.0,933.0
+"2024","Z",66025100.0,"25–59 let","CZ0534","Usti nad Orlici","CZ053","Pardubicky kraj",18970.0,783.0
+"2024","Z",66025100.0,"25–59 let","CZ0631","Havlickuv Brod","CZ063","Vysocina",12960.0,280.0
+"2024","Z",66025100.0,"25–59 let","CZ0632","Jihlava","CZ063","Vysocina",16034.0,492.0
+"2024","Z",66025100.0,"25–59 let","CZ0633","Pelhrimov","CZ063","Vysocina",10555.0,273.0
+"2024","Z",66025100.0,"25–59 let","CZ0634","Trebic","CZ063","Vysocina",15114.0,351.0
+"2024","Z",66025100.0,"25–59 let","CZ0635","Zdar nad Sazavou","CZ063","Vysocina",16133.0,543.0
+"2024","Z",66025100.0,"25–59 let","CZ0641","Blansko","CZ064","Jihomoravsky kraj",14906.0,523.0
+"2024","Z",66025100.0,"25–59 let","CZ0642","Brno-mesto","CZ064","Jihomoravsky kraj",55782.0,1809.0
+"2024","Z",66025100.0,"25–59 let","CZ0643","Brno-venkov","CZ064","Jihomoravsky kraj",33859.0,1112.0
+"2024","Z",66025100.0,"25–59 let","CZ0644","Breclav","CZ064","Jihomoravsky kraj",15936.0,303.0
+"2024","Z",66025100.0,"25–59 let","CZ0645","Hodonin","CZ064","Jihomoravsky kraj",19662.0,478.0
+"2024","Z",66025100.0,"25–59 let","CZ0646","Vyskov","CZ064","Jihomoravsky kraj",13186.0,421.0
+"2024","Z",66025100.0,"25–59 let","CZ0647","Znojmo","CZ064","Jihomoravsky kraj",15312.0,388.0
+"2024","Z",66025100.0,"25–59 let","CZ0711","Jesenik","CZ071","Olomoucky kraj",3458.0,94.0
+"2024","Z",66025100.0,"25–59 let","CZ0712","Olomouc","CZ071","Olomoucky kraj",34550.0,765.0
+"2024","Z",66025100.0,"25–59 let","CZ0713","Prostejov","CZ071","Olomoucky kraj",15433.0,370.0
+"2024","Z",66025100.0,"25–59 let","CZ0714","Prerov","CZ071","Olomoucky kraj",16446.0,356.0
+"2024","Z",66025100.0,"25–59 let","CZ0715","Sumperk","CZ071","Olomoucky kraj",16870.0,296.0
+"2024","Z",66025100.0,"25–59 let","CZ0721","Kromeriz","CZ072","Zlinsky kraj",13224.0,224.0
+"2024","Z",66025100.0,"25–59 let","CZ0722","Uherske Hradiste","CZ072","Zlinsky kraj",18438.0,245.0
+"2024","Z",66025100.0,"25–59 let","CZ0723","Vsetin","CZ072","Zlinsky kraj",19519.0,479.0
+"2024","Z",66025100.0,"25–59 let","CZ0724","Zlin","CZ072","Zlinsky kraj",25341.0,535.0
+"2024","Z",66025100.0,"25–59 let","CZ0801","Bruntal","CZ080","Moravskoslezsky kraj",11333.0,399.0
+"2024","Z",66025100.0,"25–59 let","CZ0802","Frydek-Mistek","CZ080","Moravskoslezsky kraj",31148.0,696.0
+"2024","Z",66025100.0,"25–59 let","CZ0803","Karvina","CZ080","Moravskoslezsky kraj",31289.0,934.0
+"2024","Z",66025100.0,"25–59 let","CZ0804","Novy Jicin","CZ080","Moravskoslezsky kraj",20889.0,600.0
+"2024","Z",66025100.0,"25–59 let","CZ0805","Opava","CZ080","Moravskoslezsky kraj",26638.0,695.0
+"2024","Z",66025100.0,"25–59 let","CZ0806","Ostrava-mesto","CZ080","Moravskoslezsky kraj",43129.0,1378.0
